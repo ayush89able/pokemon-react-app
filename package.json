@@ -3,12 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@tds/core-box": "^2.2.0",
+    "@tds/core-button": "^2.1.14",
+    "@tds/core-card": "^2.3.6",
+    "@tds/core-expand-collapse": "^2.2.0",
+    "@tds/core-flex-grid": "^3.0.10",
+    "@tds/core-heading": "^3.0.4",
+    "@tds/core-paragraph": "^2.0.12",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^2.1.8",
+    "styled-components": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
